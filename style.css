@@ -1,0 +1,22 @@
+body {
+    font-family:Georgia;
+    background-color: #eee;
+}
+
+h1 {
+    font-size: 30px;
+    border: 5px #eee solid;
+    color: purple;
+    font-weight:5px;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+   color: blue;
+   text-align: center;
+}
+
+h3 {
+  color: blue;
+}
